@@ -1,0 +1,30 @@
+{
+  "name": "quiadelectus",
+  "version": "1.0.0",
+  "description": "Type checker for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "dolorum",
+    "qui",
+    "quod",
+    "nihil"
+  ],
+  "dependencies": {
+    "@types/mocha": "latest",
+    "@types/node": "latest",
+    "extend": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "author": "IssacMayert",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraCartwright/quiadelectus.git"
+  }
+}
